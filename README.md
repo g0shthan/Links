@@ -1,5 +1,7 @@
 # Links
 
+说明：该项目克隆自别的项目，用来收藏自己喜欢的二次元资源。
+
 Something in here are my collections for daily use, which includes fully funny resources, maybe cross platform or not, enjoy it!
 
 
